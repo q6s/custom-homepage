@@ -2,21 +2,12 @@
 
 * {
     @media (prefers-color-scheme: dark) {
-    .body {
-    background-image: url('.../EF600540-CFAF-4C87-97DD-F60228488077.jpeg');
+        .body {
+        background-image: url('.../EF600540-CFAF-4C87-97DD-F60228488077.jpeg');
+        color: white;
+    }
 
-    filter: blur(6px);
-    -webkit-filter: blur(6px);
-
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+        
     .search-bar,
     .search-button {
         color: white;
