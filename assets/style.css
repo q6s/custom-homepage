@@ -1,9 +1,19 @@
 @media (prefers-color-scheme: dark) {
     .body {
-        background-color: black;
-        color: white;
-    }
+    background-image: url('.../background.gif');
 
+    filter: blur(6px);
+    -webkit-filter: blur(6px);
+
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
     .search-bar,
     .search-button {
         color: white;
