@@ -1,7 +1,4 @@
-# custom-homepage
-Custom homepage for a browser.  
-Set your browser's homepage to https://home.benny.fun/.
-
-> ### Features
-> - Shortcuts
-> - Updating time
+# SOURCE:
+https://github.com/bentettmar/custom-homepage
+https://github.com/bentettmar/custom-homepage
+https://github.com/bentettmar/custom-homepage
